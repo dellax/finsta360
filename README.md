@@ -1,6 +1,9 @@
 # finsta360
 finsta360 - python script to finalize incomplete MP4 of Insta360 ONE X
 
+# requirements
+Python version 3.6+
+
 # What is this?
 If you have Insta360 [ONE X](https://www.insta360.com/product/insta360-onex)
 and you have some corrupted files, this is for you!
