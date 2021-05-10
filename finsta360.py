@@ -956,7 +956,7 @@ def finsta360(
 
 
 def usage():
-    print('finsta360.py : to finalize incomplete MP4 of Insta360 ONE-X
+    print('finsta360.py : to finalize incomplete MP4 of Insta360 ONE-X')
     print('https://github.com/kichiki/finsta360')
     print('USAGE: finsta360.py [options]')
     print('\t-s file : source file, that is, corrupted mp4 (insv) file')
